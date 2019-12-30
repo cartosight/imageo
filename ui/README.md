@@ -1,3 +1,5 @@
+This project aims to provide a polished geography-based experience of browsing your photographs.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
